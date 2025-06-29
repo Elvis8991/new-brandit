@@ -1,0 +1,1362 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar{
+    position: absolute;
+    margin: 40px 0 0 130rem;
+}
+.navbar a{
+    color: darkblue;
+    font-size: 32px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding-left: 20px;
+}
+.header-container{
+    height: 1300px;
+    width: 100%;
+    background-color: #fff;
+    background-image: url(/picha/pexels-photo-18930893.webp);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*
+.logo{
+    height: 200px;
+    width: 200px;
+    background-image: url(/picha/weblll.jpg);
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px 0 0 250px;
+    position: absolute;
+    border: brown solid 5px;
+}
+
+.im-box1{
+    height: 900px;
+    width: 900px;
+    margin: 150px 0 0 95rem;
+    position: absolute;
+    border-radius: 50%;
+    border: #fff solid 10px;
+}
+.im-box2{
+    height: 450px;
+    width: 450px;
+    background-color: brown;
+    margin: 50px 0 0 80rem;
+    position: absolute;
+    border-radius: 50%;
+    background-image: url(/picha/ff5a537b3a10bbfb2d75c0e82f951be0-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: #fff solid 10px;
+}
+.im-box3{
+    height: 450px;
+    width: 450px;
+    background-color: brown;
+    margin: 50px 0 0 137rem;
+    position: absolute;
+    border-radius: 50%;
+    background-image: url(/picha/ff5a537b3a10bbfb2d75c0e82f951be0-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: #fff solid 10px;
+}
+        */
+.headerh1{
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 40px 0 0 50px;
+    position: absolute;
+    color: darkblue;
+}
+.headp1{
+    font-size: 30px;
+    text-transform: capitalize;
+    position: absolute;
+    margin: 310px 0 0 300px;
+}
+.headp2{
+    font-size: 30px;
+    text-transform: capitalize;
+    position: absolute;
+    margin: 360px 0 0 150px;
+    max-width: 600px;
+    text-align: center;
+}
+.h-container{
+    height: 700px;
+    width: 140rem;
+    background-color: orangered;
+    margin: 30px 0 0 15rem;
+    border-radius: 32px;
+}
+.hp{
+    color: bisque;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 10px 0 0 800px;
+    position: absolute;
+}
+.s-boxes{
+    display: inline-flex;
+    margin: 70px 0 0 170px;
+}
+.box1{
+    height: 400px;
+    width: 500px;
+    margin: 80px 0 0 0;
+    border-radius: 16px;
+}
+.box1 p{
+    font-size: 30px;
+    color: #fff;
+}
+.box2{
+    height: 400px;
+    width: 500px;
+    margin-left: 200px;
+    border-radius: 16px;
+}
+.box2 p{
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+.box3{
+    height: 400px;
+    width: 500px;
+    margin: 80px 0 0 200px;
+    border-radius: 16px;
+}
+.box3 p{
+    font-size: 30px;
+    text-align: right;
+    color: #fff;
+}
+.service-container{
+    height: 900px;
+    width: 100%;
+    background-color: bisque;
+    margin: 40px 0 0 0;
+}
+.box-container{
+    height: 100px;
+    width: 45rem;
+    background-color: orangered;
+    margin: 40px 0 0 120px;
+    position: absolute;
+    border-radius: 32px;
+
+}
+.service-container h2{
+    font-size: 50px;
+    position: absolute;
+    padding: 20px 0 0 40px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.link-box{
+    position: absolute;
+    margin: 40px 0 0 135rem;
+    height: 100px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 64px;
+}
+.l1{
+    font-size: 40px;
+    text-transform: capitalize;
+    padding: 30px 0 0 50px;
+    position: absolute;
+    color: #fff;
+    text-decoration: none;
+}
+.boooxes1{
+    position: absolute;
+    display: inline-flex;
+    margin: 100px 0 0 70px;
+}
+.a-box1{
+    height: 600px;
+    width: 450px;
+    margin: 100px 0 0 50px;
+    background-color: #fff;
+    background-image: url(picha/dtg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 32px;
+}
+.kabox1{
+    height: 80px;
+    width: 450px;
+    background-color: orangered;
+    margin: 520px 0 0 0;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+.a-box1 p{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0 0 20px;
+    position: absolute;
+}
+.a-box2{
+    height: 600px;
+    width: 450px;
+    margin: 100px 0 0 40px;
+    background-color: #fff;
+    background-image: url(picha/vinyl.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 32px;
+}
+.kabox2{
+    height: 80px;
+    width: 450px;
+    background-color: orangered;
+    margin: 520px 0 0 0;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+.a-box2 p{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0 0 20px;
+    position: absolute;
+}
+.a-box3{
+    height: 600px;
+    width: 450px;
+    margin: 100px 0 0 40px;
+    background-color: #fff;
+    background-image: url(picha/color.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 32px;
+}
+.kabox3{
+    height: 80px;
+    width: 450px;
+    background-color: orangered;
+    margin: 520px 0 0 0;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+.a-box3 p{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0 0 20px;
+    position: absolute;
+}
+.a-box4{
+    height: 600px;
+    width: 450px;
+    margin: 100px 0 0 40px;
+    background-color: #fff;
+    background-image: url(picha/hat.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 32px;
+}
+.kabox4{
+    height: 80px;
+    width: 450px;
+    background-color: orangered;
+    margin: 520px 0 0 0;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+.a-box4 p{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0 0 20px;
+    position: absolute;
+}
+.a-box5{
+    height: 600px;
+    width: 450px;
+    margin: 100px 0 0 40px;
+    background-color: #fff;
+    background-image: url(picha/t-shirt-design-in-kenya-opt-1.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 32px;
+}
+.kabox5{
+    height: 80px;
+    width: 450px;
+    background-color: orangered;
+    margin: 520px 0 0 0;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+.a-box5 p{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0 0 20px;
+    position: absolute;
+}
+.offer-container{
+    height: 900px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.o-box1{
+    height: 700px;
+    width: 450px;
+    margin: 100px 0 0 150px;
+    background-color: bisque;
+    position: absolute;
+    background-image: url(/picha/e24df6f14fcf1db8f3e4967984f121fe.jpg);
+}
+.what{
+    font-size: 40px;
+    margin: 20px 0 0 20px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.o-box2{
+    height: 340px;
+    width: 300px;
+    margin: 100px 0 0 40rem;
+    background-color: bisque;
+    position: absolute;
+    background-image: url(/picha/l_20221-s2g628z1-qvw_6.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.o-box3{
+    height: 340px;
+    width: 300px;
+    margin: 450px 0 0 40rem;
+    background-color: bisque;
+    position: absolute;
+    background-image: url(/picha/3ebb513183bf7fa98da81e9f3dfe1bd7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.vline{
+    height: 700px;
+    width: 10px;
+    position: absolute;
+    margin: 100px 0 0 70rem;
+    background-color: orangered;
+    border-radius: 16px;
+}
+.for{
+    margin: 100px 0 0 75rem;
+    position: absolute;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.fx{
+    display: inline-flex;
+}
+.f-box1{
+    height: 600px;
+    width: 450px;
+    position: absolute;
+    margin: 180px 0 0 75rem;
+    background-color: bisque;
+    background-image: url(/picha/e94f6da8f835d54c41dcf3d454d8e337.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.f-box2{
+    height: 600px;
+    width: 450px;
+    position: absolute;
+    margin: 180px 0 0 105rem;
+    background-color: bisque;
+    background-image: url(/picha/d714a15766ab5b65f1c7ba3454e13a1c.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.f-box3{
+    height: 600px;
+    width: 450px;
+    position: absolute;
+    margin: 180px 0 0 135rem;
+    background-color: bisque;
+    background-image: url(/picha/friendscup.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.about-container{
+    height: 600px;
+    width: 100%;
+    background-color: bisque;
+}
+.why{
+    position: absolute;
+    font-size: 50px;
+    margin: 60px 0 0 500px;
+    text-transform: capitalize;
+}
+.w-box{
+    height: 400px;
+    width: 800px;
+    margin: 150px 0 0 250px;
+    background-color: #fff;
+    position: absolute;
+    background-image: url(/picha/general-views-hela-clothing-factory-nairobi-kenya-440nw-9333531t.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.wp{
+    font-size: 32px;
+    max-width: 500px;
+    margin: 150px 0 0 80rem;
+    position: absolute;
+}
+.vline1{
+    height: 500px;
+    width: 10px;
+    position: absolute;
+    margin: 70px 0 0 120rem;
+    background-color: orangered;
+    border-radius: 16px;
+}
+.wp1{
+    font-size: 32px;
+    max-width: 500px;
+    margin: 150px 0 0 130rem;
+    position: absolute;
+}
+.clients-container{
+    height: 950px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.c1{
+    font-size: 50px;
+    margin: 40px 0 0 75rem;
+    text-transform: capitalize;
+    text-decoration: underline;
+    position: absolute;
+}
+.c-box1{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 200px 0 0 30rem;
+    background-image: url(picha/images.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c-box2{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 200px 0 0 60rem;
+    background-image: url(picha/hd-creative-logo-design-2-62f46b838a7c9e5da2fc7832652946349f816f43f525c14e0d760ccec4354d51.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c-box3{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 200px 0 0 90rem;
+    background-image: url(picha/images\ \(3\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c-box4{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 200px 0 0 120rem;
+    background-image: url(picha/images\ \(1\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c-box5{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 600px 0 0 30rem;
+    background-image: url(picha/images\ \(2\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c-box6{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 600px 0 0 60rem;
+    background-image: url(picha/images\ \(3\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c-box7{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 600px 0 0 90rem;
+    background-image: url(picha/images\ \(4\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.c-box8{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin: 600px 0 0 120rem;
+    background-image: url(picha/images\ \(5\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.testimonials-container{
+    height: 650px;
+    width: 100%;
+    background-color: bisque;
+}
+.t{
+    position: absolute;
+    margin: 50px 0 0 65rem;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.t-box1{
+    height: 400px;
+    width: 70rem;
+    background-color: #fff;
+    position: absolute;
+    margin: 150px 0 0 55rem;
+    border-radius: 16px;
+}
+.tc{
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    border-radius: 50%;
+    position: absolute;
+    margin: 20px 0 0 30rem;
+    background-image: url(picha/last.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tp{
+    position: absolute;
+    font-size: 32px;
+    text-align: center;
+    margin: 250px 0 0 70px;
+}
+.team-container{
+    height: 700px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.us{
+    position: absolute;
+    margin: 20px 0 0 70rem;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.te1{
+    position: absolute;
+    margin: 150px 0 0 30rem;
+    max-width: 400px;
+    font-size: 32px;
+    text-align: right;
+}
+.te-box1{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    margin: 100px 0 0 60rem;
+    background-color: bisque;
+    background-image: url(picha/nn.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.te-box2{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    margin: 100px 0 0 90rem;
+    background-color: bisque;
+    background-image: url(picha/ee.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.te2{
+    position: absolute;
+    margin: 150px 0 0 120rem;
+    max-width: 400px;
+    font-size: 32px;
+    text-align: left;
+}
+.gallery{
+    height: 700px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.gp{
+    font-size: 50px;
+    position: absolute;
+    margin: 20px 0 0 50rem;
+}
+.gallery-images{
+    display: inline-flex;
+    position: absolute;
+    margin: 100px 0 0 80px;
+}
+.img1{
+    height: 500px;
+    width: 400px;
+}
+.img2{
+    height: 500px;
+    width: 400px;
+    margin-left: 20px;
+}
+.img3{
+    height: 500px;
+    width: 400px;
+    margin-left: 20px;
+}
+.img4{
+    height: 500px;
+    width: 400px;
+    margin-left: 20px;
+}
+.img5{
+    height: 500px;
+    width: 400px;
+    margin-left: 20px;
+}
+.img6{
+    height: 500px;
+    width: 400px;
+    margin-left: 20px;
+}
+footer{
+    height: 900px;
+    width: 100%;
+    background-color: orangered;
+}
+.quick{
+    position: absolute;
+    margin: 100px 0 0 20rem;
+}
+.q{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.links{
+    margin: 20px 0 0 20px;
+}
+.links a{
+    text-decoration: none;
+    font-size: 32px;
+    text-transform: capitalize;
+    display: block;
+    padding: 20px;
+}
+.vline2{
+    height: 500px;
+    width: 10px;
+    background-color: #fff;
+    border-radius: 16px;
+    position: absolute;
+    margin: 100px 0 0 40rem;
+}
+.contacts{
+    position: absolute;
+    margin: 100px 0 0 50rem;
+}
+.c{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.cp{
+    text-decoration: none;
+    font-size: 32px;
+    text-transform: capitalize;
+    display: block;
+    padding: 20px;
+}
+.footer-box{
+    height: 400px;
+    width: 70rem;
+    position: absolute;
+    margin: 50px 0 0 90rem;
+    background-color: #fff;
+    background-image: url(/picha/Clothing-brand-Sooper-Dooper-Kids-teams-up-with-Dharavi-Dream-Project.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fp{
+    position: absolute;
+    margin: 500px 0 0 90rem;
+    color: #fff;
+    max-width: 400px;
+    font-size: 32px;
+}
+.footer-form{
+    position: absolute;
+    margin: 500px 0 0 120rem;
+}
+#email{
+    height: 70px;
+    width: 500px;
+    background-color: aliceblue;
+    font-size: 25px;
+    padding: 20px;
+    border: none;
+}
+#submitbtn{
+    height: 70px;
+    width: 150px;
+    margin: 0 0 0 10px;
+    position: absolute;
+    background-color: aliceblue;
+    font-size: 30px;
+    padding: 5px;
+    border: none;
+}
+
+
+/* brabdit-services css */
+.brandservice-container{
+    height: 700px;
+    width: 100%;
+    background-image: url(/picha/women-top-view-belly-blue-eyes-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.navba{
+    position: absolute;
+    margin: 40px 0 0 130rem;
+}
+.navba a{
+    color: #fff;
+    font-size: 32px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding-left: 20px;
+}
+.graphic-container{
+    height: 650px;
+    width: 100%;
+}
+.customh2{
+    font-size: 40px;
+    text-transform: capitalize;
+    position: absolute;
+    margin: 40px 0 0 60rem;
+}
+.gc{
+    position: absolute;
+    height: 500px;
+    width: 800px;
+    background-color: orangered;
+    margin: 100px 0 0 5rem;
+    border-radius: 16px;
+}
+.graphich2{
+    color: #fff;
+    font-size: 50px;
+    position: absolute;
+    margin: 30px 0 0 15rem;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.g-container{
+    position: absolute;
+    margin: 150px 0 0 150px;
+}
+.g-container li{
+    color: #fff;
+    font-size: 35px;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+}
+.t-shirt_container{
+    position: absolute;
+    margin: 150px 0 0 450px;
+}
+.t-shirt_container li{
+    color: #fff;
+    font-size: 35px;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+}
+.gb{
+    position: absolute;
+    height: 500px;
+    width: 90rem;
+    background-color: orangered;
+    margin: 70px 0 0 70rem;
+    border-radius: 16px;
+}
+.gbh2{
+    position: absolute;
+    color: #fff;
+    font-size: 50px;
+    margin: 20px 0 0 50px;
+}
+.gb li{
+    position: absolute;
+    margin: 100px 0 0 30px;
+    font-size: 35px;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    padding-left: 70px;
+}
+.custombox1{
+    height: 500px;
+    width: 400px;
+    background-color: bisque;
+    position: absolute;
+    margin: 100px 0 0 60rem;
+    background-image: url(/picha/footcup.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custombox2{
+    height: 500px;
+    width: 400px;
+    background-color: bisque;
+    position: absolute;
+    margin: 100px 0 0 87rem;
+    background-image: url(/picha/stand.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custombox3{
+    height: 500px;
+    width: 400px;
+    background-color: bisque;
+    position: absolute;
+    margin: 100px 0 0 114rem;
+    background-image: url(/picha/mine\ bag.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custombox4{
+    height: 500px;
+    width: 400px;
+    background-color: bisque;
+    position: absolute;
+    margin: 100px 0 0 141rem;
+    background-image: url(/picha/0d6dc73a317d94dd48bddbdad7755507.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dtg-cont{
+    height: 600px;
+    width: 100%;
+    background-color: aliceblue;    
+}
+.dtgh2{
+    font-size: 60px;
+    margin: 50px 0 0 100rem;
+    position: absolute;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.dtgp{
+    position: absolute;
+    font-size: 35px;
+    margin: 130px 0 0 100rem;
+    max-width: 600px;
+}
+.dtg-box{
+    position: absolute;
+    height: 600px;
+    width: 80rem;
+    background-color: #fff;
+    background-image: url(picha/GTX-banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.vinyl-cont{
+    height: 600px;
+    width: 100%;  
+}
+.vh2{
+    font-size: 60px;
+    margin: 50px 0 0 35rem;
+    position: absolute;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.vp{
+    position: absolute;
+    font-size: 35px;
+    margin: 130px 0 0 20rem;
+    max-width: 600px;
+    text-align: right;
+}
+.v-box{
+    position: absolute;
+    height: 600px;
+    width: 80rem;
+    margin-left: 80rem;
+    background-color: #fff;
+    background-image: url(picha/3953a5e8502c24f6e15f234024cada74a1064559382720822a0ac5ed2dbf8572.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.embroidery-cont{
+    height: 600px;
+    width: 100%;
+    background-color: aliceblue;    
+}
+.eh2{
+    font-size: 60px;
+    margin: 50px 0 0 100rem;
+    position: absolute;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.ep{
+    position: absolute;
+    font-size: 35px;
+    margin: 130px 0 0 100rem;
+    max-width: 600px;
+}
+.e-box{
+    position: absolute;
+    height: 600px;
+    width: 80rem;
+    background-color: #fff;
+    background-image: url(picha/TMBP2-XC_3-1500x865.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.screen-cont{
+    height: 600px;
+    width: 100%;  
+}
+.sh2{
+    font-size: 60px;
+    margin: 50px 0 0 30rem;
+    position: absolute;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.sp{
+    position: absolute;
+    font-size: 35px;
+    margin: 130px 0 0 20rem;
+    max-width: 600px;
+    text-align: right;
+}
+.s-box{
+    position: absolute;
+    height: 600px;
+    width: 80rem;
+    margin-left: 80rem;
+    background-color: #fff;
+    background-image: url(picha/3_Hacks_On_Preparing_Your_Artwork_For_Screen_Printing_1000x.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ultra-cont{
+    height: 600px;
+    width: 100%;
+    background-color: aliceblue;    
+}
+.uh2{
+    font-size: 60px;
+    margin: 50px 0 0 100rem;
+    position: absolute;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.up{
+    position: absolute;
+    font-size: 35px;
+    margin: 130px 0 0 100rem;
+    max-width: 600px;
+}
+.u-box{
+    position: absolute;
+    height: 600px;
+    width: 80rem;
+    background-color: #fff;
+    background-image: url(picha/71mo7R-Z5LL._AC_UF1000\,1000_QL80_.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.gallery-container{
+    height: 900px;
+    width: 100%;
+}
+.gch3{
+    font-size: 40px;
+    position: absolute;
+    margin: 40px 0 0 10rem;
+    text-transform: capitalize;
+}
+.gallery_images{
+    display: inline-flex;
+    position: absolute;
+    margin: 100px 0 0 5rem;
+}
+.im1{
+    height: 400px;
+    width: 300px;
+}
+.im2{
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.im3{
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.im4{
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.im5{
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.im6{
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.side-box{
+    height: 800px;
+    width: 550px;
+    position: absolute;
+    margin: 30px 0 0 130rem;
+    background-color: bisque;
+    background-image: url(/picha/5d0d2c9e396fcae404630156a86f46a1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.whatsapp-box{
+    position: absolute;
+    margin: 550px 0 0 10rem;
+    background-color: bisque;
+    height: 300px;
+    width: 80rem;
+}
+.whatp{
+    position: absolute;
+    font-size: 32px;
+    margin: 550px 0 0 95rem;
+    max-width: 500px;
+}
+
+/* about css */
+.about-header{
+    height: 400px;
+    width: 100%;
+    background-color: beige;
+    background-image: url(picha/360_F_460432554_BDQpxzDy7YcorFjzdB5lWPEeD6Tv1Xkb.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.abh1{
+    font-size: 100px;
+    position: absolute;
+    margin: 200px 0 0 60rem;
+    text-transform: capitalize;
+}
+.marketing-container{
+    height: 500px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.mh1{
+    font-size: 50px;
+    position: absolute;
+    margin: 50px 0 0 10rem;
+    text-transform: capitalize;
+}
+.mp{
+    font-size: 32px;
+    position: absolute;
+    margin: 180px 0 0 10rem;
+    max-width: 600px;
+}
+.mission-box1{
+    height: 500px;
+    width: 50rem;
+    position: absolute;
+    margin: 0px 0 0 60rem;
+    background-color: bisque;
+}
+.mbh1{
+    font-size: 40px;
+    position: absolute;
+    margin: 70px 0 0 100px;
+    text-transform: capitalize;
+    text-align: center;
+    max-width: 600px;
+}
+.mbp{
+    font-size: 32px;
+    position: absolute;
+    margin: 180px 0 0 100px;
+    max-width: 600px;
+    text-align: center;
+}
+.vision-box1{
+    height: 500px;
+    width: 40rem;
+    position: absolute;
+    margin: 0px 0 0 120rem;
+}
+.vbh1{
+    font-size: 40px;
+    position: absolute;
+    margin: 70px 0 0 100px;
+    text-transform: capitalize;
+    text-align: right;
+    max-width: 600px;
+}
+.vbp{
+    font-size: 32px;
+    position: absolute;
+    margin: 210px 0 0 100px;
+    max-width: 600px;
+    text-align: right;
+}
+.project-container{
+    height: 750px;
+    width: 100%;
+}
+.ph1{
+    font-size: 70px;
+    text-transform: capitalize;
+    position: absolute;
+    margin: 50px 0 0 30px;
+    color: #000;
+}
+.excel-box{
+    position: absolute;
+    height: 600px;
+    width: 700px;
+    margin: 100px 0 0 50px;
+    border-radius: 32px;
+}
+.e-p{
+    color: #000;
+    font-size: 50px;
+    position: absolute;
+    margin: 250px 0 0 30px;
+    text-transform: capitalize;
+}
+.project-image1{
+    position: absolute;
+    height: 600px;
+    width: 60rem;
+    background-color: orangered;
+    background-image: url(picha/shutterstock_647176339-1.jpg);
+    margin: 100px 0 0 60rem;
+    border-radius: 32px;
+}
+.project-image2{
+    position: absolute;
+    height: 600px;
+    width: 40rem;
+    background-color: orangered;
+    background-image: url(picha/pencils-stationery-packaging-design-tubikarts.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px 0 0 125rem;
+    border-radius: 32px;
+}
+.how-container{
+    height: 500px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.hh2{
+    position: absolute;
+    font-size: 50px;
+    margin: 50px 0 0 60rem;
+    text-transform: capitalize;
+}
+.h-w{
+    position: absolute;
+    font-size: 40px;
+    margin: 120px 0 0 65rem;
+    text-transform: capitalize;
+}
+.h-wwh2{
+    position: absolute;
+    font-size: 50px;
+    margin: 50px 0 0 110rem;
+    text-transform: capitalize;
+    max-width: 600px;
+}
+.h-ww{
+    position: absolute;
+    font-size: 40px;
+    margin: 200px 0 0 115rem;
+    text-transform: capitalize;
+}
+.complete-container{
+    height: 90rem;
+    width: 100%;
+}
+.ch2{
+    font-size: 50px;
+    position: absolute;
+    margin: 50px 0 0 65rem;
+    text-transform: capitalize;
+}
+.billboard{
+    height: 600px;
+    width: 60rem;
+    position: absolute;
+    margin: 140px 0 0 20rem;
+    background-color: orangered;
+    background-image: url(picha/d2d050163397891.63e500ca7e47f.jpg);
+}
+.billboard-p{
+    height: 600px;
+    width: 60rem;
+    position: absolute;
+    margin: 140px 0 0 80rem;
+    background-color: darkblue;
+}
+.logo-p{
+    height: 600px;
+    width: 60rem;
+    position: absolute;
+    margin: 740px 0 0 20rem;
+    background-color: darkblue;
+}
+.logo{
+    height: 600px;
+    width: 60rem;
+    position: absolute;
+    margin: 740px 0 0 80rem;
+    background-color: orangered;
+    background-image: url(picha/hd-creative-logo-design-2-62f46b838a7c9e5da2fc7832652946349f816f43f525c14e0d760ccec4354d51.jpg);
+}
+.trust-container{
+    height: 800px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.th2{
+    position: absolute;
+    font-size: 40px;
+    margin: 50px 0 0 60rem;
+    text-transform: capitalize;
+}
+.t1{
+    height: 200px;
+    width: 50rem;
+    position: absolute;
+    background-color: bisque;
+    margin: 150px 0 0 30rem;
+}
+.t1h3{
+    font-size: 50px;
+    margin: 70px 0 0 100px;
+    text-transform: capitalize;
+}
+.t2{
+    height: 200px;
+    width: 50rem;
+    position: absolute;
+    background-color: bisque;
+    margin: 400px 0 0 30rem;
+}
+.t2h3{
+    font-size: 50px;
+    margin: 70px 0 0 100px;
+    text-transform: capitalize;
+}
+.t3{
+    height: 200px;
+    width: 50rem;
+    position: absolute;
+    background-color: bisque;
+    margin: 150px 0 0 85rem;
+}
+.t3h3{
+    font-size: 50px;
+    margin: 70px 0 0 100px;
+    text-transform: capitalize;
+}
+.t4{
+    height: 200px;
+    width: 50rem;
+    position: absolute;
+    background-color: bisque;
+    margin: 400px 0 0 85rem;
+}
+.t4h3{
+    font-size: 50px;
+    margin: 70px 0 0 100px;
+    text-transform: capitalize;
+}
